@@ -9,3 +9,5 @@ GitHub Pages: main 브랜치 루트. index.html부터 시작한다. 오프라인
 법령·판례 원문은 출처에 표시된 국가법령정보센터에서 확인한다. 블로그의 전문·이미지는 재배포하지 않는다. 읽기 파일은 출처가 표시된 발췌 또는 강사 요약이다.
 
 실제 교육 계정, 기관 내부 도구, 30명 동시 수업은 미검증이다. 교재 캡처는 2026-10-14 개인 계정 리허설이며 계정 영역을 잘랐다.
+
+디자인 v2는 [OpenDesign 공식 저장소](https://github.com/nexu-io/open-design)의 Warm Editorial 디자인 시스템과 frontend-design 가이드를 참고해 직접 구현했다. OpenDesign 앱·Cloud 실행 결과가 아니다. 출처와 수정 범위는 DESIGN_CREDITS.md를 참조한다.
