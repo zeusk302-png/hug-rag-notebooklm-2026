@@ -10,4 +10,4 @@ GitHub Pages: main 브랜치 루트. index.html부터 시작한다. 오프라인
 
 실제 교육 계정, 기관 내부 도구, 30명 동시 수업은 미검증이다. 교재 캡처는 2026-10-14 개인 계정 리허설이며 계정 영역을 잘랐다.
 
-디자인 v6는 [OpenDesign 공식 저장소](https://github.com/nexu-io/open-design)의 Professional 디자인 시스템과 frontend-design 가이드를 참고한 뒤, HUG 공식 홈페이지·CI의 white/blue/sky/green 방향으로 재구성했다. HUG 로고와 공개 캐릭터 이미지는 원본으로 사용하며 BRAND_CREDITS.md에 출처를 기록했다. OpenDesign 앱·Cloud 실행 결과가 아니다. 출처와 수정 범위는 DESIGN_CREDITS.md를 참조한다.
+디자인 v7는 [OpenDesign 공식 저장소](https://github.com/nexu-io/open-design)의 Professional 디자인 시스템과 frontend-design 가이드를 참고한 뒤, HUG 공식 홈페이지·CI의 white/blue/sky/green 방향으로 재구성했다. HUG 로고와 공개 캐릭터 이미지는 원본으로 사용하며 BRAND_CREDITS.md에 출처를 기록했다. OpenDesign 앱·Cloud 실행 결과가 아니다. 출처와 수정 범위는 DESIGN_CREDITS.md를 참조한다.

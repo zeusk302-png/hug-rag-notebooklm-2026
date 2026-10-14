@@ -67,3 +67,13 @@ if (viewer && typeof viewer.showModal === 'function') {
     if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) viewer.close();
   });
 }
+
+const downloadDialog = document.querySelector('#download-dialog');
+if (downloadDialog) {
+ let downloadOpener;
+ document.querySelectorAll('[data-download-open]').forEach(button => button.addEventListener('click',()=>{downloadOpener=button;downloadDialog.showModal();downloadDialog.scrollTop=0;}));
+ downloadDialog.querySelector('[data-download-close]').addEventListener('click',()=>downloadDialog.close());
+ downloadDialog.addEventListener('close',()=>downloadOpener?.focus());
+ downloadDialog.addEventListener('click',event=>{if(event.target!==downloadDialog)return;const r=downloadDialog.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)downloadDialog.close();});
+ downloadDialog.querySelector('.download-print').addEventListener('click',()=>{downloadDialog.close();window.print();});
+}
