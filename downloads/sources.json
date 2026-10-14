@@ -1,0 +1,52 @@
+[
+  {
+    "id": "LAW",
+    "title": "주택임대차보호법 제3조의3",
+    "kind": "법령",
+    "url": "https://law.go.kr/LSW/lsSideInfoP.do?docCls=jo&joBrNo=03&joNo=0003&lsiSeq=276291&urlMode=lsScJoRltInfoR",
+    "version": "시행 2026-01-02 / 법률 제21065호",
+    "use": "신청 요건과 등기 완료 후 권리 보전의 근거",
+    "checked": "2026-10-14",
+    "file": "law-reading.txt"
+  },
+  {
+    "id": "RULE",
+    "title": "임차권등기명령 절차에 관한 규칙",
+    "kind": "대법원규칙",
+    "url": "https://law.go.kr/LSW/lsInfoP.do?lsId=005917",
+    "version": "확인한 현행 본문: 시행 2023-07-19 / 대법원규칙 제3102호",
+    "use": "제2조 기재사항·제3조 첨부서류 조건 확인",
+    "checked": "2026-10-14",
+    "file": "rule-reading.txt"
+  },
+  {
+    "id": "CASE05",
+    "title": "대법원 2005. 6. 9. 선고 2005다4529 판결",
+    "kind": "판례",
+    "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=193797",
+    "version": "구상금 / 2005-06-09",
+    "use": "주택임대차보호법상 임차권등기와 보증금 반환·말소의 관계",
+    "checked": "2026-10-14",
+    "file": "case05-reading.txt"
+  },
+  {
+    "id": "CASE24",
+    "title": "대법원 2024. 12. 12. 선고 2024다261989 판결",
+    "kind": "판례",
+    "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=599787",
+    "version": "부당이득금 / 2024-12-12",
+    "use": "민법 제621조에 따른 등기와 2005년 판례의 적용 범위 비교",
+    "checked": "2026-10-14",
+    "file": "case24-reading.txt"
+  },
+  {
+    "id": "BLOG",
+    "title": "전세보증금 못 받았을 때 임차권등기명령 신청방법",
+    "kind": "블로그 · 보조 자료",
+    "url": "https://www.ikhoss.com/lease-registration-order-application/",
+    "version": "박사무장 법률실무 / 확인일 2026-10-14",
+    "use": "실무 질문과 유사 상황 탐색. 비용·기간·서류 설명은 공식 자료로 재확인",
+    "checked": "2026-10-14",
+    "file": "blog-reading.txt"
+  }
+]
