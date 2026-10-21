@@ -1,0 +1,2576 @@
+{
+  "checked": "2026-10-21",
+  "notebooks": [
+    {
+      "id": "A",
+      "title": "직원용 지식검색",
+      "count": 45,
+      "zip": "HUG_Notebook_A_45_sources.zip",
+      "bytes": 670789,
+      "sources": [
+        {
+          "order": 1,
+          "id": "L284415",
+          "title": "민법",
+          "kind": "법령",
+          "effective": "20260317",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284415&efYd=20260317&chrClsCd=010202",
+          "file": "A/sources/01_L284415.txt",
+          "characters": 176294,
+          "sha256": "3cd6fed21158cf659a962201aac41c5d337e162eca93d99be09111de2c7802f0"
+        },
+        {
+          "order": 2,
+          "id": "L276291",
+          "title": "주택임대차보호법",
+          "kind": "법령",
+          "effective": "20260102",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276291&efYd=20260102&chrClsCd=010202",
+          "file": "A/sources/02_L276291.txt",
+          "characters": 23257,
+          "sha256": "bdc2cbf05b179007efedeaab7cd041f2148b7499c6ca4b8209fa8885f959dc87"
+        },
+        {
+          "order": 3,
+          "id": "L287183",
+          "title": "주택임대차보호법 시행령",
+          "kind": "법령",
+          "effective": "20260701",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=287183&efYd=20260701&chrClsCd=010202",
+          "file": "A/sources/03_L287183.txt",
+          "characters": 18891,
+          "sha256": "29be5caf11b94b723338846ecaf1e2171a3174c2d4d91d995299be1ff582d1cd"
+        },
+        {
+          "order": 4,
+          "id": "L252747",
+          "title": "임차권등기명령 절차에 관한 규칙",
+          "kind": "법령",
+          "effective": "20230719",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=252747&efYd=20230719&chrClsCd=010202",
+          "file": "A/sources/04_L252747.txt",
+          "characters": 4575,
+          "sha256": "6c209dc0a759ce982b35bb27b95f776f1601283d1b83298db02d154b8ce75a78"
+        },
+        {
+          "order": 5,
+          "id": "L286599",
+          "title": "주택도시기금법",
+          "kind": "법령",
+          "effective": "20260602",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=286599&efYd=20260602&chrClsCd=010202",
+          "file": "A/sources/05_L286599.txt",
+          "characters": 27588,
+          "sha256": "23fd2da2dd025d57dea5d556b3760fed389403f1695316c32352ffe6fcb215b8"
+        },
+        {
+          "order": 6,
+          "id": "L289689",
+          "title": "주택도시기금법 시행령",
+          "kind": "법령",
+          "effective": "20260915",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289689&efYd=20260915&chrClsCd=010202",
+          "file": "A/sources/06_L289689.txt",
+          "characters": 32216,
+          "sha256": "9e8df0126039e2931615b8f1a2caefee3bb6fdcca739f0f98d51ebfca3a000c8"
+        },
+        {
+          "order": 7,
+          "id": "L248401",
+          "title": "주택도시기금법 시행규칙",
+          "kind": "법령",
+          "effective": "20230301",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=248401&efYd=20230301&chrClsCd=010202",
+          "file": "A/sources/07_L248401.txt",
+          "characters": 13093,
+          "sha256": "8fc34bb26d237ddd71458bd4427574a41222708150f508858da2736d1476d5ab"
+        },
+        {
+          "order": 8,
+          "id": "L289171",
+          "title": "주택법",
+          "kind": "법령",
+          "effective": "20260908",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289171&efYd=20260908&chrClsCd=010202",
+          "file": "A/sources/08_L289171.txt",
+          "characters": 131483,
+          "sha256": "9ad25d22993b16d111f63d3b86f7ee5ef6557cea112f30e35b2ee235fa6cb41d"
+        },
+        {
+          "order": 9,
+          "id": "L289499",
+          "title": "주택법 시행령",
+          "kind": "법령",
+          "effective": "20260908",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289499&efYd=20260908&chrClsCd=010202",
+          "file": "A/sources/09_L289499.txt",
+          "characters": 108494,
+          "sha256": "43dbe4056a9403d170cf95c951a71f567a125180a5b27a6c5b94fab5960a057a"
+        },
+        {
+          "order": 10,
+          "id": "L288575",
+          "title": "주택법 시행규칙",
+          "kind": "법령",
+          "effective": "20260804",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=288575&efYd=20260804&chrClsCd=010202",
+          "file": "A/sources/10_L288575.txt",
+          "characters": 57058,
+          "sha256": "ceada61ef993c4486fcc2f613bf9a21a6c3483009f1384240fdabe6652a76b02"
+        },
+        {
+          "order": 11,
+          "id": "L276995",
+          "title": "민간임대주택에 관한 특별법",
+          "kind": "법령",
+          "effective": "20260102",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276995&efYd=20260102&chrClsCd=010202",
+          "file": "A/sources/11_L276995.txt",
+          "characters": 88628,
+          "sha256": "9e0269079f751176a8c0fa17c87561f686551e93b782642f9f536a1e8f14a8f6"
+        },
+        {
+          "order": 12,
+          "id": "L269343",
+          "title": "민간임대주택에 관한 특별법 시행령",
+          "kind": "법령",
+          "effective": "20260226",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269343&efYd=20260226&chrClsCd=010202",
+          "file": "A/sources/12_L269343.txt",
+          "characters": 77411,
+          "sha256": "06995f1e88fa458e2dfbe096b1f03433e1e7bad7945a9c27de3c8d394ad8b9a8"
+        },
+        {
+          "order": 13,
+          "id": "L280639",
+          "title": "민간임대주택에 관한 특별법 시행규칙",
+          "kind": "법령",
+          "effective": "20251219",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=280639&efYd=20251219&chrClsCd=010202",
+          "file": "A/sources/13_L280639.txt",
+          "characters": 46488,
+          "sha256": "3a7ea806fd83ba6ab2ca6ba06e6070574a8d11e4ea67a82fb78fc6b72192378d"
+        },
+        {
+          "order": 14,
+          "id": "L259641",
+          "title": "부동산 거래신고 등에 관한 법률",
+          "kind": "법령",
+          "effective": "20240517",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259641&efYd=20240517&chrClsCd=010202",
+          "file": "A/sources/14_L259641.txt",
+          "characters": 32572,
+          "sha256": "5347ef852cd35870ca364290f504f88f9f519e7d97ba91d83a13ad9522fbd2ed"
+        },
+        {
+          "order": 15,
+          "id": "L283713",
+          "title": "공인중개사법",
+          "kind": "법령",
+          "effective": "20260828",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283713&efYd=20260828&chrClsCd=010202",
+          "file": "A/sources/15_L283713.txt",
+          "characters": 44646,
+          "sha256": "dc6acb9e39881ffb69cabaf504ba76cb45593aaba6c05774d955d2a285872b52"
+        },
+        {
+          "order": 16,
+          "id": "L288933",
+          "title": "공인중개사법 시행령",
+          "kind": "법령",
+          "effective": "20260828",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=288933&efYd=20260828&chrClsCd=010202",
+          "file": "A/sources/16_L288933.txt",
+          "characters": 34448,
+          "sha256": "c1beedeb1a680169587b1b93bd16eb47f2a0d70dd1a854dfa2e774d61e932e7a"
+        },
+        {
+          "order": 17,
+          "id": "L288753",
+          "title": "공인중개사법 시행규칙",
+          "kind": "법령",
+          "effective": "20260828",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=288753&efYd=20260828&chrClsCd=010202",
+          "file": "A/sources/17_L288753.txt",
+          "characters": 29454,
+          "sha256": "9b429284981214d9a91a16dceebc2e59cd5e1fe2d4321f4f1efafc5b0bbfd314"
+        },
+        {
+          "order": 18,
+          "id": "L283839",
+          "title": "개인정보 보호법",
+          "kind": "법령",
+          "effective": "20260911",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283839&efYd=20260911&chrClsCd=010202",
+          "file": "A/sources/18_L283839.txt",
+          "characters": 91192,
+          "sha256": "0726c63c5d29c1156b3579be62fadfe77d89e724e91c74f43224c46a42e022fb"
+        },
+        {
+          "order": 19,
+          "id": "L289537",
+          "title": "개인정보 보호법 시행령",
+          "kind": "법령",
+          "effective": "20260911",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289537&efYd=20260911&chrClsCd=010202",
+          "file": "A/sources/19_L289537.txt",
+          "characters": 102338,
+          "sha256": "f7547971a942b9916a4d615b5e38e351f8433afc04831ea30e9177d461f24af1"
+        },
+        {
+          "order": 20,
+          "id": "L236053",
+          "title": "전자문서 및 전자거래 기본법",
+          "kind": "법령",
+          "effective": "20221020",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236053&efYd=20221020&chrClsCd=010202",
+          "file": "A/sources/20_L236053.txt",
+          "characters": 40302,
+          "sha256": "ef4b26f80754a635797c1aacdf9b73cf73ca6a672f5bb7b3354efadc73008697"
+        },
+        {
+          "order": 21,
+          "id": "L236201",
+          "title": "전자서명법",
+          "kind": "법령",
+          "effective": "20221020",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236201&efYd=20221020&chrClsCd=010202",
+          "file": "A/sources/21_L236201.txt",
+          "characters": 13556,
+          "sha256": "f9b5d750e4aa4d701f6800613402dae3ade946218cd651538c5982371f9ef69e"
+        },
+        {
+          "order": 22,
+          "id": "L269955",
+          "title": "행정기본법",
+          "kind": "법령",
+          "effective": "20260319",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269955&efYd=20260319&chrClsCd=010202",
+          "file": "A/sources/22_L269955.txt",
+          "characters": 15293,
+          "sha256": "f0eca471e00cd35d32b5ed6e076e0ef8a40141649178d5dcb1f8f500e0365d77"
+        },
+        {
+          "order": 23,
+          "id": "L284499",
+          "title": "행정기본법 시행령",
+          "kind": "법령",
+          "effective": "20260319",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284499&efYd=20260319&chrClsCd=010202",
+          "file": "A/sources/23_L284499.txt",
+          "characters": 9896,
+          "sha256": "b607d31fe20d1be2d213881dd59aeb95c6619de8d9a22f0ca6e9bd7cc99defeb"
+        },
+        {
+          "order": 24,
+          "id": "L251019",
+          "title": "공공기관의 정보공개에 관한 법률",
+          "kind": "법령",
+          "effective": "20231117",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=251019&efYd=20231117&chrClsCd=010202",
+          "file": "A/sources/24_L251019.txt",
+          "characters": 18332,
+          "sha256": "d810af89d212d2d7a98edad5fbeeed300cd86b4b3a0b8228653b2ae29b3ff46e"
+        },
+        {
+          "order": 25,
+          "id": "L281505",
+          "title": "공공기관의 정보공개에 관한 법률 시행령",
+          "kind": "법령",
+          "effective": "20260102",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=281505&efYd=20260102&chrClsCd=010202",
+          "file": "A/sources/25_L281505.txt",
+          "characters": 16318,
+          "sha256": "85afdceae333a214e639f81572d3d0dac4ce22e63a12b30c380aceceb4757519"
+        },
+        {
+          "order": 26,
+          "id": "L273809",
+          "title": "공공기관의 정보공개에 관한 법률 시행규칙",
+          "kind": "법령",
+          "effective": "20250919",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273809&efYd=20250919&chrClsCd=010202",
+          "file": "A/sources/26_L273809.txt",
+          "characters": 7122,
+          "sha256": "ae024cebf59877f3f6d6109ce5fa257f6806cffc89b55d0b76a403e5dd68100c"
+        },
+        {
+          "order": 27,
+          "id": "Higdr000001",
+          "title": "HUG · 전세보증금반환보증 · 상품개요",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000001.jsp",
+          "file": "A/sources/27_Higdr000001.txt",
+          "characters": 7832,
+          "sha256": "a84b9a7a12a72016eb4773c250dadc60789e741554407d6cf39fbe9d23909467"
+        },
+        {
+          "order": 28,
+          "id": "Higdr000002",
+          "title": "HUG · 전세보증금반환보증 · 이용절차 및 제출서류",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000002.jsp",
+          "file": "A/sources/28_Higdr000002.txt",
+          "characters": 8486,
+          "sha256": "38c84290aad0f22c125d9ac494b351c956fd552d9e199b665f79ad2e9fc989d5"
+        },
+        {
+          "order": 29,
+          "id": "Higdr000003",
+          "title": "HUG · 전세보증금반환보증 · 자주하는 질문",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000003.jsp",
+          "file": "A/sources/29_Higdr000003.txt",
+          "characters": 4598,
+          "sha256": "fe5663ae279b688f16b85c645115e77accda1ed35edb0c7b042d0ce9d25f74e6"
+        },
+        {
+          "order": 30,
+          "id": "Higdr000004",
+          "title": "HUG · 전세보증금반환보증 · 약관 및 상담연락처",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000004.jsp",
+          "file": "A/sources/30_Higdr000004.txt",
+          "characters": 3601,
+          "sha256": "95bc8170f40cd1df51309ae2066da38216eba167ab6af1825af9d7e9e62a4ee3"
+        },
+        {
+          "order": 31,
+          "id": "Higdr000007",
+          "title": "HUG · 특례반환보증(임차인형)",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000007.jsp",
+          "file": "A/sources/31_Higdr000007.txt",
+          "characters": 5030,
+          "sha256": "570a65280209dbbc27096f0b48e736b7b096626743f312d1b63de63f209dd2eb"
+        },
+        {
+          "order": 32,
+          "id": "Higdr000011",
+          "title": "HUG · 특례반환보증(임대인형)",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000011.jsp",
+          "file": "A/sources/32_Higdr000011.txt",
+          "characters": 4961,
+          "sha256": "50bc6274f388a3c48b903bebd33d71101615e4531ea740e5eb96072962e20d99"
+        },
+        {
+          "order": 33,
+          "id": "Higdl000001",
+          "title": "HUG · 전세금안심대출보증",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dl/igdl000001.jsp",
+          "file": "A/sources/33_Higdl000001.txt",
+          "characters": 6780,
+          "sha256": "572ac7277b9f72655966c6839af1fcb024c3b36acc91d9b316d5071ca553a746"
+        },
+        {
+          "order": 34,
+          "id": "Higdl000005",
+          "title": "HUG · 전세안심대출 금리 안내",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dl/igdl000005.jsp",
+          "file": "A/sources/34_Higdl000005.txt",
+          "characters": 931,
+          "sha256": "8edffc265c8e92824df41e041eda274808309fc2e57c524be44cab61294add62"
+        },
+        {
+          "order": 35,
+          "id": "Highp000001",
+          "title": "HUG · 주택구입자금보증",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/hp/ighp000001.jsp",
+          "file": "A/sources/35_Highp000001.txt",
+          "characters": 4945,
+          "sha256": "57456413d02ac9f2e83fa063e2ff07323b237ce626f354b5010d6332dccca7ff"
+        },
+        {
+          "order": 36,
+          "id": "Higrh000001",
+          "title": "HUG · 주택임차자금보증",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/rh/igrh000001.jsp",
+          "file": "A/sources/36_Higrh000001.txt",
+          "characters": 3085,
+          "sha256": "e46a279c5dc8de6a2727a61abe45b86619384fb4c6da26abb384443af2878320"
+        },
+        {
+          "order": 37,
+          "id": "Higlj000001",
+          "title": "HUG · 전세임대주택 전세보증금반환보증",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/lj/iglj000001.jsp",
+          "file": "A/sources/37_Higlj000001.txt",
+          "characters": 1538,
+          "sha256": "ecda37a2c6dcd79dd9760839bd46230bf758d6a04365b62fc714100c301a56d9"
+        },
+        {
+          "order": 38,
+          "id": "Higpr000001",
+          "title": "HUG · 임차료지급보증",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/pr/igpr000001.jsp",
+          "file": "A/sources/38_Higpr000001.txt",
+          "characters": 1453,
+          "sha256": "65a47ef1734901ba8c8f659a5285a9f6db60388ea919d2427730a6ab2c2b08d7"
+        },
+        {
+          "order": 39,
+          "id": "Higpl000001",
+          "title": "HUG · 임대주택매입자금보증",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/pl/igpl000001.jsp",
+          "file": "A/sources/39_Higpl000001.txt",
+          "characters": 1673,
+          "sha256": "925854eacc39e04bc4aca9f7e6c4cd3d2aa569d1b4ac8ff20348d24cd21b92f6"
+        },
+        {
+          "order": 40,
+          "id": "Higdt000501",
+          "title": "HUG · 청년전용 월세대출보증",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dt/igdt000501.jsp",
+          "file": "A/sources/40_Higdt000501.txt",
+          "characters": 903,
+          "sha256": "b38772f3331694b26e6e880c070ba0f57541a5ec4634e629c2c4930671a39488"
+        },
+        {
+          "order": 41,
+          "id": "C193797",
+          "title": "대법원 2005. 6. 9. 선고 2005다4529 판결 · 판례 > 구상금",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=193797",
+          "file": "A/sources/41_C193797.txt",
+          "characters": 2531,
+          "sha256": "f2cb5be17f9823c4e9ffd8edcfe0e7eb8d5e20cde73e73ee3242d376c914f9fa"
+        },
+        {
+          "order": 42,
+          "id": "C599787",
+          "title": "대법원 2024. 12. 12. 선고 2024다261989 판결 · 판례 > 부당이득금",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=599787",
+          "file": "A/sources/42_C599787.txt",
+          "characters": 1198,
+          "sha256": "1fe73885531765f09074179652771daf130f31613a709e75f8065af2baecf9bf"
+        },
+        {
+          "order": 43,
+          "id": "C605771",
+          "title": "대법원 2025. 4. 15. 선고 2024다326398 판결 · 판례 > 임대차보증금반환[주택 임차인의 점유 상실 후 마쳐진 임차권등기의 대항력이 문제된 사건]",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=605771",
+          "file": "A/sources/43_C605771.txt",
+          "characters": 6573,
+          "sha256": "c00cd86bc7f20450dfca1d87e9eb748b2396f34c46e39aaf02403e0a4a28725d"
+        },
+        {
+          "order": 44,
+          "id": "C227209",
+          "title": "대법원 2022. 3. 17. 선고 2021다210720 판결 · 판례 > 임대차보증금",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=227209",
+          "file": "A/sources/44_C227209.txt",
+          "characters": 6240,
+          "sha256": "dc389199e794964666404b9093deb57cbe6c2e063dc58ebc2d09772d272529c0"
+        },
+        {
+          "order": 45,
+          "id": "C241585",
+          "title": "대법원 2024. 9. 12. 선고 2024다239364 판결 · 판례 > 손해배상(기)[공인중개사가 부동산 중개 과정에서 임대차보증금 반환채무가 매수인에게 면책적으로 인수되지 않는다는 사정을 설명할 주의의무가 인정되는지 여부가 문제된 사건]",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=241585",
+          "file": "A/sources/45_C241585.txt",
+          "characters": 4983,
+          "sha256": "fb4a9a27bf972248c880c29c3dc8e6407de14d5916d76a57e28fc21ddde58232"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "title": "민원 답변 지원",
+      "count": 45,
+      "zip": "HUG_Notebook_B_45_sources.zip",
+      "bytes": 578987,
+      "sources": [
+        {
+          "order": 1,
+          "id": "L284415",
+          "title": "민법",
+          "kind": "법령",
+          "effective": "20260317",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284415&efYd=20260317&chrClsCd=010202",
+          "file": "B/sources/01_L284415.txt",
+          "characters": 176294,
+          "sha256": "3cd6fed21158cf659a962201aac41c5d337e162eca93d99be09111de2c7802f0"
+        },
+        {
+          "order": 2,
+          "id": "L276291",
+          "title": "주택임대차보호법",
+          "kind": "법령",
+          "effective": "20260102",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276291&efYd=20260102&chrClsCd=010202",
+          "file": "B/sources/02_L276291.txt",
+          "characters": 23257,
+          "sha256": "bdc2cbf05b179007efedeaab7cd041f2148b7499c6ca4b8209fa8885f959dc87"
+        },
+        {
+          "order": 3,
+          "id": "L287183",
+          "title": "주택임대차보호법 시행령",
+          "kind": "법령",
+          "effective": "20260701",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=287183&efYd=20260701&chrClsCd=010202",
+          "file": "B/sources/03_L287183.txt",
+          "characters": 18891,
+          "sha256": "29be5caf11b94b723338846ecaf1e2171a3174c2d4d91d995299be1ff582d1cd"
+        },
+        {
+          "order": 4,
+          "id": "L252747",
+          "title": "임차권등기명령 절차에 관한 규칙",
+          "kind": "법령",
+          "effective": "20230719",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=252747&efYd=20230719&chrClsCd=010202",
+          "file": "B/sources/04_L252747.txt",
+          "characters": 4575,
+          "sha256": "6c209dc0a759ce982b35bb27b95f776f1601283d1b83298db02d154b8ce75a78"
+        },
+        {
+          "order": 5,
+          "id": "L239293",
+          "title": "민원 처리에 관한 법률",
+          "kind": "법령",
+          "effective": "20220712",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=239293&efYd=20220712&chrClsCd=010202",
+          "file": "B/sources/05_L239293.txt",
+          "characters": 19008,
+          "sha256": "e233559e34b40bb862ccac4944927b4cea1712f4ed604710972ba5b5ed2b73c9"
+        },
+        {
+          "order": 6,
+          "id": "L285815",
+          "title": "민원 처리에 관한 법률 시행령",
+          "kind": "법령",
+          "effective": "20260506",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285815&efYd=20260506&chrClsCd=010202",
+          "file": "B/sources/06_L285815.txt",
+          "characters": 35006,
+          "sha256": "2615dfc4ca967608df03f8ef0af3370211d8c4b086608d97363e52f364ce4401"
+        },
+        {
+          "order": 7,
+          "id": "L265249",
+          "title": "민원 처리에 관한 법률 시행규칙",
+          "kind": "법령",
+          "effective": "20240906",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265249&efYd=20240906&chrClsCd=010202",
+          "file": "B/sources/07_L265249.txt",
+          "characters": 7723,
+          "sha256": "c76039283647c2220bb27d68f3464b5b02551480447a8795b10f26f3678a736c"
+        },
+        {
+          "order": 8,
+          "id": "L239291",
+          "title": "행정절차법",
+          "kind": "법령",
+          "effective": "20230324",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=239291&efYd=20230324&chrClsCd=010202",
+          "file": "B/sources/08_L239291.txt",
+          "characters": 29717,
+          "sha256": "341fe70f54280f518fba96f3f25301546181fe48c268dd74c2e6abafcb21242b"
+        },
+        {
+          "order": 9,
+          "id": "L253247",
+          "title": "행정절차법 시행령",
+          "kind": "법령",
+          "effective": "20230801",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=253247&efYd=20230801&chrClsCd=010202",
+          "file": "B/sources/09_L253247.txt",
+          "characters": 16207,
+          "sha256": "d9b51acacc5d507f64a32382304fc2a9c1b15b09bba61305c0b3d0366832bb6f"
+        },
+        {
+          "order": 10,
+          "id": "L243859",
+          "title": "행정절차법 시행규칙",
+          "kind": "법령",
+          "effective": "20220712",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=243859&efYd=20220712&chrClsCd=010202",
+          "file": "B/sources/10_L243859.txt",
+          "characters": 10730,
+          "sha256": "63a8ea82817cbca27cd552cc35c6b761ef8bb342a19ff3a73a6788a0a311f323"
+        },
+        {
+          "order": 11,
+          "id": "L269955",
+          "title": "행정기본법",
+          "kind": "법령",
+          "effective": "20260319",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269955&efYd=20260319&chrClsCd=010202",
+          "file": "B/sources/11_L269955.txt",
+          "characters": 15293,
+          "sha256": "f0eca471e00cd35d32b5ed6e076e0ef8a40141649178d5dcb1f8f500e0365d77"
+        },
+        {
+          "order": 12,
+          "id": "L284499",
+          "title": "행정기본법 시행령",
+          "kind": "법령",
+          "effective": "20260319",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284499&efYd=20260319&chrClsCd=010202",
+          "file": "B/sources/12_L284499.txt",
+          "characters": 9896,
+          "sha256": "b607d31fe20d1be2d213881dd59aeb95c6619de8d9a22f0ca6e9bd7cc99defeb"
+        },
+        {
+          "order": 13,
+          "id": "L251019",
+          "title": "공공기관의 정보공개에 관한 법률",
+          "kind": "법령",
+          "effective": "20231117",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=251019&efYd=20231117&chrClsCd=010202",
+          "file": "B/sources/13_L251019.txt",
+          "characters": 18332,
+          "sha256": "d810af89d212d2d7a98edad5fbeeed300cd86b4b3a0b8228653b2ae29b3ff46e"
+        },
+        {
+          "order": 14,
+          "id": "L281505",
+          "title": "공공기관의 정보공개에 관한 법률 시행령",
+          "kind": "법령",
+          "effective": "20260102",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=281505&efYd=20260102&chrClsCd=010202",
+          "file": "B/sources/14_L281505.txt",
+          "characters": 16318,
+          "sha256": "85afdceae333a214e639f81572d3d0dac4ce22e63a12b30c380aceceb4757519"
+        },
+        {
+          "order": 15,
+          "id": "L273809",
+          "title": "공공기관의 정보공개에 관한 법률 시행규칙",
+          "kind": "법령",
+          "effective": "20250919",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273809&efYd=20250919&chrClsCd=010202",
+          "file": "B/sources/15_L273809.txt",
+          "characters": 7122,
+          "sha256": "ae024cebf59877f3f6d6109ce5fa257f6806cffc89b55d0b76a403e5dd68100c"
+        },
+        {
+          "order": 16,
+          "id": "L283839",
+          "title": "개인정보 보호법",
+          "kind": "법령",
+          "effective": "20260911",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283839&efYd=20260911&chrClsCd=010202",
+          "file": "B/sources/16_L283839.txt",
+          "characters": 91192,
+          "sha256": "0726c63c5d29c1156b3579be62fadfe77d89e724e91c74f43224c46a42e022fb"
+        },
+        {
+          "order": 17,
+          "id": "L289537",
+          "title": "개인정보 보호법 시행령",
+          "kind": "법령",
+          "effective": "20260911",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289537&efYd=20260911&chrClsCd=010202",
+          "file": "B/sources/17_L289537.txt",
+          "characters": 102338,
+          "sha256": "f7547971a942b9916a4d615b5e38e351f8433afc04831ea30e9177d461f24af1"
+        },
+        {
+          "order": 18,
+          "id": "L290113",
+          "title": "민사소송법",
+          "kind": "법령",
+          "effective": "20261002",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290113&efYd=20261002&chrClsCd=010202",
+          "file": "B/sources/18_L290113.txt",
+          "characters": 92111,
+          "sha256": "2f5c5ca7ca3c31949b9e99025a9ed58b8e33faf63102174e4f3fe585717a1870"
+        },
+        {
+          "order": 19,
+          "id": "L268837",
+          "title": "민사집행법",
+          "kind": "법령",
+          "effective": "20260201",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268837&efYd=20260201&chrClsCd=010202",
+          "file": "B/sources/19_L268837.txt",
+          "characters": 78358,
+          "sha256": "64e8cc018e131b3be01aac6e5540fa5c020e58d48d763369e8b89b646184c728"
+        },
+        {
+          "order": 20,
+          "id": "L283713",
+          "title": "공인중개사법",
+          "kind": "법령",
+          "effective": "20260828",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283713&efYd=20260828&chrClsCd=010202",
+          "file": "B/sources/20_L283713.txt",
+          "characters": 44646,
+          "sha256": "dc6acb9e39881ffb69cabaf504ba76cb45593aaba6c05774d955d2a285872b52"
+        },
+        {
+          "order": 21,
+          "id": "L276995",
+          "title": "민간임대주택에 관한 특별법",
+          "kind": "법령",
+          "effective": "20260102",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276995&efYd=20260102&chrClsCd=010202",
+          "file": "B/sources/21_L276995.txt",
+          "characters": 88628,
+          "sha256": "9e0269079f751176a8c0fa17c87561f686551e93b782642f9f536a1e8f14a8f6"
+        },
+        {
+          "order": 22,
+          "id": "L215759",
+          "title": "부동산 실권리자명의 등기에 관한 법률",
+          "kind": "법령",
+          "effective": "20200324",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=215759&efYd=20200324&chrClsCd=010202",
+          "file": "B/sources/22_L215759.txt",
+          "characters": 12717,
+          "sha256": "c9c0c3e53ca22bf35f8940578ca88abce549ca0d6f48491e71eef9d1d4d0c18b"
+        },
+        {
+          "order": 23,
+          "id": "L290655",
+          "title": "전세사기피해자 지원 및 주거안정에 관한 특별법",
+          "kind": "법령",
+          "effective": "20261002",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290655&efYd=20261002&chrClsCd=010202",
+          "file": "B/sources/23_L290655.txt",
+          "characters": 33379,
+          "sha256": "90d37cb5de6ad99bd7f3a02eeb28a01950d58e34c793399c9328a5ada7577414"
+        },
+        {
+          "order": 24,
+          "id": "L291183",
+          "title": "전세사기피해자 지원 및 주거안정에 관한 특별법 시행령",
+          "kind": "법령",
+          "effective": "20261013",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=291183&efYd=20261013&chrClsCd=010202",
+          "file": "B/sources/24_L291183.txt",
+          "characters": 8568,
+          "sha256": "11e040778c5c269fe3a2d58f6613b8e134bef82cd969196c986a68ef79ac634d"
+        },
+        {
+          "order": 25,
+          "id": "L273851",
+          "title": "전세사기피해자 지원 및 주거안정에 관한 특별법 시행규칙",
+          "kind": "법령",
+          "effective": "20250919",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273851&efYd=20250919&chrClsCd=010202",
+          "file": "B/sources/25_L273851.txt",
+          "characters": 11703,
+          "sha256": "cb450e6e22f4bdc8c2671eb6a4fa21a8803a59d9ebc7254ea09ffde8a9f7aca0"
+        },
+        {
+          "order": 26,
+          "id": "L236053",
+          "title": "전자문서 및 전자거래 기본법",
+          "kind": "법령",
+          "effective": "20221020",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236053&efYd=20221020&chrClsCd=010202",
+          "file": "B/sources/26_L236053.txt",
+          "characters": 40302,
+          "sha256": "ef4b26f80754a635797c1aacdf9b73cf73ca6a672f5bb7b3354efadc73008697"
+        },
+        {
+          "order": 27,
+          "id": "Higdr000001",
+          "title": "HUG · 전세보증금반환보증 · 상품개요",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000001.jsp",
+          "file": "B/sources/27_Higdr000001.txt",
+          "characters": 7832,
+          "sha256": "a84b9a7a12a72016eb4773c250dadc60789e741554407d6cf39fbe9d23909467"
+        },
+        {
+          "order": 28,
+          "id": "Higdr000003",
+          "title": "HUG · 전세보증금반환보증 · 자주하는 질문",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000003.jsp",
+          "file": "B/sources/28_Higdr000003.txt",
+          "characters": 4598,
+          "sha256": "fe5663ae279b688f16b85c645115e77accda1ed35edb0c7b042d0ce9d25f74e6"
+        },
+        {
+          "order": 29,
+          "id": "Higdr000004",
+          "title": "HUG · 전세보증금반환보증 · 약관 및 상담연락처",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000004.jsp",
+          "file": "B/sources/29_Higdr000004.txt",
+          "characters": 3601,
+          "sha256": "95bc8170f40cd1df51309ae2066da38216eba167ab6af1825af9d7e9e62a4ee3"
+        },
+        {
+          "order": 30,
+          "id": "Hcsel000019",
+          "title": "HUG · 전세보증금보증 FAQ · 목록 첫 페이지",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/cs/el/csel000019.jsp",
+          "file": "B/sources/30_Hcsel000019.txt",
+          "characters": 4311,
+          "sha256": "b95080060cbfca500c6adb1d1d32027bb7724b88de9ea9ea393b34da1d94f368"
+        },
+        {
+          "order": 31,
+          "id": "Higdr000007",
+          "title": "HUG · 특례반환보증(임차인형)",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000007.jsp",
+          "file": "B/sources/31_Higdr000007.txt",
+          "characters": 5030,
+          "sha256": "570a65280209dbbc27096f0b48e736b7b096626743f312d1b63de63f209dd2eb"
+        },
+        {
+          "order": 32,
+          "id": "Higdr000011",
+          "title": "HUG · 특례반환보증(임대인형)",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000011.jsp",
+          "file": "B/sources/32_Higdr000011.txt",
+          "characters": 4961,
+          "sha256": "50bc6274f388a3c48b903bebd33d71101615e4531ea740e5eb96072962e20d99"
+        },
+        {
+          "order": 33,
+          "id": "Higdl000001",
+          "title": "HUG · 전세금안심대출보증",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dl/igdl000001.jsp",
+          "file": "B/sources/33_Higdl000001.txt",
+          "characters": 6780,
+          "sha256": "572ac7277b9f72655966c6839af1fcb024c3b36acc91d9b316d5071ca553a746"
+        },
+        {
+          "order": 34,
+          "id": "Hgbbg000001",
+          "title": "HUG · 보증이용절차",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/gb/bg/gbbg000001.jsp",
+          "file": "B/sources/34_Hgbbg000001.txt",
+          "characters": 1832,
+          "sha256": "a7646c7228f13b108f1086ebf048ad3885cdd648dacd1c75a003b6909de1a8dc"
+        },
+        {
+          "order": 35,
+          "id": "Hgbba000011",
+          "title": "HUG · 개인금융채무자 채무조정",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/gb/ba/gbba000011.jsp",
+          "file": "B/sources/35_Hgbba000011.txt",
+          "characters": 3641,
+          "sha256": "378024a3db0f4b0c0d1cb6ddb3328db37b1c3deabeb0636130822f2839a15813"
+        },
+        {
+          "order": 36,
+          "id": "C193797",
+          "title": "대법원 2005. 6. 9. 선고 2005다4529 판결 · 판례 > 구상금",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=193797",
+          "file": "B/sources/36_C193797.txt",
+          "characters": 2531,
+          "sha256": "f2cb5be17f9823c4e9ffd8edcfe0e7eb8d5e20cde73e73ee3242d376c914f9fa"
+        },
+        {
+          "order": 37,
+          "id": "C599787",
+          "title": "대법원 2024. 12. 12. 선고 2024다261989 판결 · 판례 > 부당이득금",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=599787",
+          "file": "B/sources/37_C599787.txt",
+          "characters": 1198,
+          "sha256": "1fe73885531765f09074179652771daf130f31613a709e75f8065af2baecf9bf"
+        },
+        {
+          "order": 38,
+          "id": "C605771",
+          "title": "대법원 2025. 4. 15. 선고 2024다326398 판결 · 판례 > 임대차보증금반환[주택 임차인의 점유 상실 후 마쳐진 임차권등기의 대항력이 문제된 사건]",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=605771",
+          "file": "B/sources/38_C605771.txt",
+          "characters": 6573,
+          "sha256": "c00cd86bc7f20450dfca1d87e9eb748b2396f34c46e39aaf02403e0a4a28725d"
+        },
+        {
+          "order": 39,
+          "id": "C227209",
+          "title": "대법원 2022. 3. 17. 선고 2021다210720 판결 · 판례 > 임대차보증금",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=227209",
+          "file": "B/sources/39_C227209.txt",
+          "characters": 6240,
+          "sha256": "dc389199e794964666404b9093deb57cbe6c2e063dc58ebc2d09772d272529c0"
+        },
+        {
+          "order": 40,
+          "id": "C241573",
+          "title": "대법원 2024. 9. 13. 선고 2024다256116 판결 · 판례 > 임대차보증금[임대차목적물이 인도되어야 임차인의 차임지급의무가 발생하는지 여부가 문제된 사건]",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=241573",
+          "file": "B/sources/40_C241573.txt",
+          "characters": 3864,
+          "sha256": "aa78b96efc72fe5d80ddfbd84406ba20cd77666984feb3c9e6b3172cf125b665"
+        },
+        {
+          "order": 41,
+          "id": "C241585",
+          "title": "대법원 2024. 9. 12. 선고 2024다239364 판결 · 판례 > 손해배상(기)[공인중개사가 부동산 중개 과정에서 임대차보증금 반환채무가 매수인에게 면책적으로 인수되지 않는다는 사정을 설명할 주의의무가 인정되는지 여부가 문제된 사건]",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=241585",
+          "file": "B/sources/41_C241585.txt",
+          "characters": 4983,
+          "sha256": "fb4a9a27bf972248c880c29c3dc8e6407de14d5916d76a57e28fc21ddde58232"
+        },
+        {
+          "order": 42,
+          "id": "C190370",
+          "title": "대법원 1999. 12. 21. 선고 97다15104 판결 · 판례 > 손해배상(기)",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=190370",
+          "file": "B/sources/42_C190370.txt",
+          "characters": 3633,
+          "sha256": "538597958abcac4e47d76d453acd8cec78ebf1f56d53d18f3742720baaaaa842"
+        },
+        {
+          "order": 43,
+          "id": "C85543",
+          "title": "대법원 2008. 2. 15. 선고 2006다68810, 68827 판결 · 판례 > 임대차보증금·손해배상",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=85543",
+          "file": "B/sources/43_C85543.txt",
+          "characters": 5097,
+          "sha256": "db05e9ae50155a357baf1c2ee03495dca44dd69751cbe15b436276104c635f52"
+        },
+        {
+          "order": 44,
+          "id": "C196635",
+          "title": "대법원 1997. 12. 12. 선고 97다22393 판결 · 판례 > 배당이의",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=196635",
+          "file": "B/sources/44_C196635.txt",
+          "characters": 2008,
+          "sha256": "935c2080ee1db1a4014c3077537c1893f75439a78f841ace3aa613efc02560a7"
+        },
+        {
+          "order": 45,
+          "id": "C192307",
+          "title": "대법원 1999. 11. 12. 선고 99다34697 판결 · 판례 > 전세보증금반환",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=192307",
+          "file": "B/sources/45_C192307.txt",
+          "characters": 4409,
+          "sha256": "c969b40cde4f2df940142af9d184dff253ac86460a805c8c62da705ca8c90639"
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "title": "서류 검토 지원",
+      "count": 45,
+      "zip": "HUG_Notebook_C_45_sources.zip",
+      "bytes": 704240,
+      "sources": [
+        {
+          "order": 1,
+          "id": "L284415",
+          "title": "민법",
+          "kind": "법령",
+          "effective": "20260317",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284415&efYd=20260317&chrClsCd=010202",
+          "file": "C/sources/01_L284415.txt",
+          "characters": 176294,
+          "sha256": "3cd6fed21158cf659a962201aac41c5d337e162eca93d99be09111de2c7802f0"
+        },
+        {
+          "order": 2,
+          "id": "L276291",
+          "title": "주택임대차보호법",
+          "kind": "법령",
+          "effective": "20260102",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276291&efYd=20260102&chrClsCd=010202",
+          "file": "C/sources/02_L276291.txt",
+          "characters": 23257,
+          "sha256": "bdc2cbf05b179007efedeaab7cd041f2148b7499c6ca4b8209fa8885f959dc87"
+        },
+        {
+          "order": 3,
+          "id": "L287183",
+          "title": "주택임대차보호법 시행령",
+          "kind": "법령",
+          "effective": "20260701",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=287183&efYd=20260701&chrClsCd=010202",
+          "file": "C/sources/03_L287183.txt",
+          "characters": 18891,
+          "sha256": "29be5caf11b94b723338846ecaf1e2171a3174c2d4d91d995299be1ff582d1cd"
+        },
+        {
+          "order": 4,
+          "id": "L252747",
+          "title": "임차권등기명령 절차에 관한 규칙",
+          "kind": "법령",
+          "effective": "20230719",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=252747&efYd=20230719&chrClsCd=010202",
+          "file": "C/sources/04_L252747.txt",
+          "characters": 4575,
+          "sha256": "6c209dc0a759ce982b35bb27b95f776f1601283d1b83298db02d154b8ce75a78"
+        },
+        {
+          "order": 5,
+          "id": "L265377",
+          "title": "부동산등기법",
+          "kind": "법령",
+          "effective": "20250131",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265377&efYd=20250131&chrClsCd=010202",
+          "file": "C/sources/05_L265377.txt",
+          "characters": 42107,
+          "sha256": "cb9568da703aa6142911c3ba37313e4f39bc8482c38fdc891a82fa9394347cfa"
+        },
+        {
+          "order": 6,
+          "id": "L266847",
+          "title": "부동산등기규칙",
+          "kind": "법령",
+          "effective": "20250801",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=266847&efYd=20250801&chrClsCd=010202",
+          "file": "C/sources/06_L266847.txt",
+          "characters": 65352,
+          "sha256": "53158f1359f54c434b36edc0b2d1cd602476cd7f91e94ed9bd283bbe06287157"
+        },
+        {
+          "order": 7,
+          "id": "L290113",
+          "title": "민사소송법",
+          "kind": "법령",
+          "effective": "20261002",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290113&efYd=20261002&chrClsCd=010202",
+          "file": "C/sources/07_L290113.txt",
+          "characters": 92111,
+          "sha256": "2f5c5ca7ca3c31949b9e99025a9ed58b8e33faf63102174e4f3fe585717a1870"
+        },
+        {
+          "order": 8,
+          "id": "L291043",
+          "title": "민사소송규칙",
+          "kind": "법령",
+          "effective": "20261012",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=291043&efYd=20261012&chrClsCd=010202",
+          "file": "C/sources/08_L291043.txt",
+          "characters": 44325,
+          "sha256": "36dfd43dfa88bcb82a22d3ea8f769984f968eae628e910bfb39fb5c8a3fe428e"
+        },
+        {
+          "order": 9,
+          "id": "L268837",
+          "title": "민사집행법",
+          "kind": "법령",
+          "effective": "20260201",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268837&efYd=20260201&chrClsCd=010202",
+          "file": "C/sources/09_L268837.txt",
+          "characters": 78358,
+          "sha256": "64e8cc018e131b3be01aac6e5540fa5c020e58d48d763369e8b89b646184c728"
+        },
+        {
+          "order": 10,
+          "id": "L272631",
+          "title": "민사집행규칙",
+          "kind": "법령",
+          "effective": "20250712",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=272631&efYd=20250712&chrClsCd=010202",
+          "file": "C/sources/10_L272631.txt",
+          "characters": 72364,
+          "sha256": "443a7e7a6f1c4dc0ca935f091b53e3645cea631e008ae621a87597cbd556131a"
+        },
+        {
+          "order": 11,
+          "id": "L268555",
+          "title": "주민등록법",
+          "kind": "법령",
+          "effective": "20250722",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268555&efYd=20250722&chrClsCd=010202",
+          "file": "C/sources/11_L268555.txt",
+          "characters": 37217,
+          "sha256": "800ca876f9a307209b86f010f89cb608475db3ecaa322acd41493e73d137da9e"
+        },
+        {
+          "order": 12,
+          "id": "L285733",
+          "title": "주민등록법 시행령",
+          "kind": "법령",
+          "effective": "20260428",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285733&efYd=20260428&chrClsCd=010202",
+          "file": "C/sources/12_L285733.txt",
+          "characters": 93706,
+          "sha256": "2d146162332826495ddf6783631a5ab5ea6741243ddd1f5a4767e822713ed1d4"
+        },
+        {
+          "order": 13,
+          "id": "L291005",
+          "title": "주민등록법 시행규칙",
+          "kind": "법령",
+          "effective": "20261002",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=291005&efYd=20261002&chrClsCd=010202",
+          "file": "C/sources/13_L291005.txt",
+          "characters": 37599,
+          "sha256": "5671b16c872f38286e81219210b5fc15c1b0afec9b9ae823da31832c75a16803"
+        },
+        {
+          "order": 14,
+          "id": "L188047",
+          "title": "인감증명법",
+          "kind": "법령",
+          "effective": "20171203",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188047&efYd=20171203&chrClsCd=010202",
+          "file": "C/sources/14_L188047.txt",
+          "characters": 8704,
+          "sha256": "42a91dcd45314cfb5d20c872a27c704477f7a2a02ed0ce0c7cd834a979dab32b"
+        },
+        {
+          "order": 15,
+          "id": "L266801",
+          "title": "인감증명법 시행령",
+          "kind": "법령",
+          "effective": "20241227",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=266801&efYd=20241227&chrClsCd=010202",
+          "file": "C/sources/15_L266801.txt",
+          "characters": 39549,
+          "sha256": "3de9ee49ae57dabb81c37dd476657c25779c2af1f8db77febfe706077b6bd0e6"
+        },
+        {
+          "order": 16,
+          "id": "L257213",
+          "title": "본인서명사실 확인 등에 관한 법률",
+          "kind": "법령",
+          "effective": "20241227",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=257213&efYd=20241227&chrClsCd=010202",
+          "file": "C/sources/16_L257213.txt",
+          "characters": 9084,
+          "sha256": "4ce96aaab1b97ba59938d8247b627160471a6e98ec8cf8f1b6f2343c9d0e8e08"
+        },
+        {
+          "order": 17,
+          "id": "L266797",
+          "title": "본인서명사실 확인 등에 관한 법률 시행령",
+          "kind": "법령",
+          "effective": "20241227",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=266797&efYd=20241227&chrClsCd=010202",
+          "file": "C/sources/17_L266797.txt",
+          "characters": 20149,
+          "sha256": "8efd7dcec276678fb6f200fe44062dd4606d7778aa0ff89f342f40baaa4292ad"
+        },
+        {
+          "order": 18,
+          "id": "L236053",
+          "title": "전자문서 및 전자거래 기본법",
+          "kind": "법령",
+          "effective": "20221020",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236053&efYd=20221020&chrClsCd=010202",
+          "file": "C/sources/18_L236053.txt",
+          "characters": 40302,
+          "sha256": "ef4b26f80754a635797c1aacdf9b73cf73ca6a672f5bb7b3354efadc73008697"
+        },
+        {
+          "order": 19,
+          "id": "L236201",
+          "title": "전자서명법",
+          "kind": "법령",
+          "effective": "20221020",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236201&efYd=20221020&chrClsCd=010202",
+          "file": "C/sources/19_L236201.txt",
+          "characters": 13556,
+          "sha256": "f9b5d750e4aa4d701f6800613402dae3ade946218cd651538c5982371f9ef69e"
+        },
+        {
+          "order": 20,
+          "id": "L283839",
+          "title": "개인정보 보호법",
+          "kind": "법령",
+          "effective": "20260911",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283839&efYd=20260911&chrClsCd=010202",
+          "file": "C/sources/20_L283839.txt",
+          "characters": 91192,
+          "sha256": "0726c63c5d29c1156b3579be62fadfe77d89e724e91c74f43224c46a42e022fb"
+        },
+        {
+          "order": 21,
+          "id": "L289537",
+          "title": "개인정보 보호법 시행령",
+          "kind": "법령",
+          "effective": "20260911",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289537&efYd=20260911&chrClsCd=010202",
+          "file": "C/sources/21_L289537.txt",
+          "characters": 102338,
+          "sha256": "f7547971a942b9916a4d615b5e38e351f8433afc04831ea30e9177d461f24af1"
+        },
+        {
+          "order": 22,
+          "id": "L259641",
+          "title": "부동산 거래신고 등에 관한 법률",
+          "kind": "법령",
+          "effective": "20240517",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259641&efYd=20240517&chrClsCd=010202",
+          "file": "C/sources/22_L259641.txt",
+          "characters": 32572,
+          "sha256": "5347ef852cd35870ca364290f504f88f9f519e7d97ba91d83a13ad9522fbd2ed"
+        },
+        {
+          "order": 23,
+          "id": "L290839",
+          "title": "부동산 거래신고 등에 관한 법률 시행령",
+          "kind": "법령",
+          "effective": "20261001",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290839&efYd=20261001&chrClsCd=010202",
+          "file": "C/sources/23_L290839.txt",
+          "characters": 29187,
+          "sha256": "46e46400efbdfe9597ed4fa79a1b57bb7c03d52f199f4a2d18d70faf6bdac3ac"
+        },
+        {
+          "order": 24,
+          "id": "L283339",
+          "title": "부동산 거래신고 등에 관한 법률 시행규칙",
+          "kind": "법령",
+          "effective": "20260210",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283339&efYd=20260210&chrClsCd=010202",
+          "file": "C/sources/24_L283339.txt",
+          "characters": 29596,
+          "sha256": "e02d828fa69d0ac36cba988efed158202539ba1aa5d1177e262935d5cd0d2994"
+        },
+        {
+          "order": 25,
+          "id": "L283713",
+          "title": "공인중개사법",
+          "kind": "법령",
+          "effective": "20260828",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283713&efYd=20260828&chrClsCd=010202",
+          "file": "C/sources/25_L283713.txt",
+          "characters": 44646,
+          "sha256": "dc6acb9e39881ffb69cabaf504ba76cb45593aaba6c05774d955d2a285872b52"
+        },
+        {
+          "order": 26,
+          "id": "L288753",
+          "title": "공인중개사법 시행규칙",
+          "kind": "법령",
+          "effective": "20260828",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=288753&efYd=20260828&chrClsCd=010202",
+          "file": "C/sources/26_L288753.txt",
+          "characters": 29454,
+          "sha256": "9b429284981214d9a91a16dceebc2e59cd5e1fe2d4321f4f1efafc5b0bbfd314"
+        },
+        {
+          "order": 27,
+          "id": "L273103",
+          "title": "건축물대장의 기재 및 관리 등에 관한 규칙",
+          "kind": "법령",
+          "effective": "20250731",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273103&efYd=20250731&chrClsCd=010202",
+          "file": "C/sources/27_L273103.txt",
+          "characters": 37622,
+          "sha256": "4d973cf89281d1eba52743b259d500745f8b71770282c638155a31e3b83c2898"
+        },
+        {
+          "order": 28,
+          "id": "L280639",
+          "title": "민간임대주택에 관한 특별법 시행규칙",
+          "kind": "법령",
+          "effective": "20251219",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=280639&efYd=20251219&chrClsCd=010202",
+          "file": "C/sources/28_L280639.txt",
+          "characters": 46488,
+          "sha256": "3a7ea806fd83ba6ab2ca6ba06e6070574a8d11e4ea67a82fb78fc6b72192378d"
+        },
+        {
+          "order": 29,
+          "id": "L248401",
+          "title": "주택도시기금법 시행규칙",
+          "kind": "법령",
+          "effective": "20230301",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=248401&efYd=20230301&chrClsCd=010202",
+          "file": "C/sources/29_L248401.txt",
+          "characters": 13093,
+          "sha256": "8fc34bb26d237ddd71458bd4427574a41222708150f508858da2736d1476d5ab"
+        },
+        {
+          "order": 30,
+          "id": "L262411",
+          "title": "부동산 실권리자명의 등기에 관한 법률 시행령",
+          "kind": "법령",
+          "effective": "20240517",
+          "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=262411&efYd=20240517&chrClsCd=010202",
+          "file": "C/sources/30_L262411.txt",
+          "characters": 7825,
+          "sha256": "d513d891e80c45128ddeae96e13ba54b7675f0f8dbeff0b9febc556e520127bb"
+        },
+        {
+          "order": 31,
+          "id": "Higdr000001",
+          "title": "HUG · 전세보증금반환보증 · 상품개요",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000001.jsp",
+          "file": "C/sources/31_Higdr000001.txt",
+          "characters": 7832,
+          "sha256": "a84b9a7a12a72016eb4773c250dadc60789e741554407d6cf39fbe9d23909467"
+        },
+        {
+          "order": 32,
+          "id": "Higdr000002",
+          "title": "HUG · 전세보증금반환보증 · 이용절차 및 제출서류",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000002.jsp",
+          "file": "C/sources/32_Higdr000002.txt",
+          "characters": 8486,
+          "sha256": "38c84290aad0f22c125d9ac494b351c956fd552d9e199b665f79ad2e9fc989d5"
+        },
+        {
+          "order": 33,
+          "id": "Higdr000004",
+          "title": "HUG · 전세보증금반환보증 · 약관 및 상담연락처",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000004.jsp",
+          "file": "C/sources/33_Higdr000004.txt",
+          "characters": 3601,
+          "sha256": "95bc8170f40cd1df51309ae2066da38216eba167ab6af1825af9d7e9e62a4ee3"
+        },
+        {
+          "order": 34,
+          "id": "Higdr000006",
+          "title": "HUG · 감정평가 의뢰 안내",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000006.jsp",
+          "file": "C/sources/34_Higdr000006.txt",
+          "characters": 2057,
+          "sha256": "47d677b8c23e0b32b125a27cd132001655b001e904c5a9ace508007d0278f94e"
+        },
+        {
+          "order": 35,
+          "id": "Higdr000007",
+          "title": "HUG · 특례반환보증(임차인형)",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000007.jsp",
+          "file": "C/sources/35_Higdr000007.txt",
+          "characters": 5030,
+          "sha256": "570a65280209dbbc27096f0b48e736b7b096626743f312d1b63de63f209dd2eb"
+        },
+        {
+          "order": 36,
+          "id": "Higdr000011",
+          "title": "HUG · 특례반환보증(임대인형)",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000011.jsp",
+          "file": "C/sources/36_Higdr000011.txt",
+          "characters": 4961,
+          "sha256": "50bc6274f388a3c48b903bebd33d71101615e4531ea740e5eb96072962e20d99"
+        },
+        {
+          "order": 37,
+          "id": "Hgbbg000001",
+          "title": "HUG · 보증이용절차",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/gb/bg/gbbg000001.jsp",
+          "file": "C/sources/37_Hgbbg000001.txt",
+          "characters": 1832,
+          "sha256": "a7646c7228f13b108f1086ebf048ad3885cdd648dacd1c75a003b6909de1a8dc"
+        },
+        {
+          "order": 38,
+          "id": "Hgbeg000020",
+          "title": "HUG · 보증이행 청구요건 자가진단",
+          "kind": "HUG 안내",
+          "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+          "url": "https://www.khug.or.kr/hug/web/gb/eg/gbeg000020.jsp",
+          "file": "C/sources/38_Hgbeg000020.txt",
+          "characters": 5709,
+          "sha256": "aaae75bd8633509d96c6f9309e81c1254216e801b7693679398da1a5a711cfdb"
+        },
+        {
+          "order": 39,
+          "id": "C193797",
+          "title": "대법원 2005. 6. 9. 선고 2005다4529 판결 · 판례 > 구상금",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=193797",
+          "file": "C/sources/39_C193797.txt",
+          "characters": 2531,
+          "sha256": "f2cb5be17f9823c4e9ffd8edcfe0e7eb8d5e20cde73e73ee3242d376c914f9fa"
+        },
+        {
+          "order": 40,
+          "id": "C599787",
+          "title": "대법원 2024. 12. 12. 선고 2024다261989 판결 · 판례 > 부당이득금",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=599787",
+          "file": "C/sources/40_C599787.txt",
+          "characters": 1198,
+          "sha256": "1fe73885531765f09074179652771daf130f31613a709e75f8065af2baecf9bf"
+        },
+        {
+          "order": 41,
+          "id": "C605771",
+          "title": "대법원 2025. 4. 15. 선고 2024다326398 판결 · 판례 > 임대차보증금반환[주택 임차인의 점유 상실 후 마쳐진 임차권등기의 대항력이 문제된 사건]",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=605771",
+          "file": "C/sources/41_C605771.txt",
+          "characters": 6573,
+          "sha256": "c00cd86bc7f20450dfca1d87e9eb748b2396f34c46e39aaf02403e0a4a28725d"
+        },
+        {
+          "order": 42,
+          "id": "C227209",
+          "title": "대법원 2022. 3. 17. 선고 2021다210720 판결 · 판례 > 임대차보증금",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=227209",
+          "file": "C/sources/42_C227209.txt",
+          "characters": 6240,
+          "sha256": "dc389199e794964666404b9093deb57cbe6c2e063dc58ebc2d09772d272529c0"
+        },
+        {
+          "order": 43,
+          "id": "C167265",
+          "title": "대법원 2012. 5. 24. 선고 2010도12732 판결 · 판례 > 상해·업무방해·사기·사기미수",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=167265",
+          "file": "C/sources/43_C167265.txt",
+          "characters": 4057,
+          "sha256": "72188429585f4d458213419032b7d9a6ca4477a3251291aeb580e8bfe25a2dcf"
+        },
+        {
+          "order": 44,
+          "id": "C196635",
+          "title": "대법원 1997. 12. 12. 선고 97다22393 판결 · 판례 > 배당이의",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=196635",
+          "file": "C/sources/44_C196635.txt",
+          "characters": 2008,
+          "sha256": "935c2080ee1db1a4014c3077537c1893f75439a78f841ace3aa613efc02560a7"
+        },
+        {
+          "order": 45,
+          "id": "C83626",
+          "title": "대법원 2004. 12. 23. 선고 2004다56554, 56561, 56578, 56585, 56592, 56608, 56615, 56622, 56639, 56646, 56653, 56660 판결 · 판례 > 건물명도",
+          "kind": "판례",
+          "effective": "판결·결정일은 제목 참조",
+          "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=83626",
+          "file": "C/sources/45_C83626.txt",
+          "characters": 2636,
+          "sha256": "54b83863602a6d35e79e278600c9f041624ebba6d670f43860f72d92c5e8b7c4"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "key": "C167265",
+      "title": "대법원 2012. 5. 24. 선고 2010도12732 판결 · 판례 > 상해·업무방해·사기·사기미수",
+      "kind": "판례",
+      "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=167265",
+      "effective": "판결·결정일은 제목 참조",
+      "scope": "국가법령정보센터 제공 판시사항·요지·참조조문·전문. 사실관계와 선고 당시 법령을 함께 검토.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "C190370",
+      "title": "대법원 1999. 12. 21. 선고 97다15104 판결 · 판례 > 손해배상(기)",
+      "kind": "판례",
+      "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=190370",
+      "effective": "판결·결정일은 제목 참조",
+      "scope": "국가법령정보센터 제공 판시사항·요지·참조조문·전문. 사실관계와 선고 당시 법령을 함께 검토.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "C192307",
+      "title": "대법원 1999. 11. 12. 선고 99다34697 판결 · 판례 > 전세보증금반환",
+      "kind": "판례",
+      "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=192307",
+      "effective": "판결·결정일은 제목 참조",
+      "scope": "국가법령정보센터 제공 판시사항·요지·참조조문·전문. 사실관계와 선고 당시 법령을 함께 검토.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "C193797",
+      "title": "대법원 2005. 6. 9. 선고 2005다4529 판결 · 판례 > 구상금",
+      "kind": "판례",
+      "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=193797",
+      "effective": "판결·결정일은 제목 참조",
+      "scope": "국가법령정보센터 제공 판시사항·요지·참조조문·전문. 사실관계와 선고 당시 법령을 함께 검토.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "C196635",
+      "title": "대법원 1997. 12. 12. 선고 97다22393 판결 · 판례 > 배당이의",
+      "kind": "판례",
+      "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=196635",
+      "effective": "판결·결정일은 제목 참조",
+      "scope": "국가법령정보센터 제공 판시사항·요지·참조조문·전문. 사실관계와 선고 당시 법령을 함께 검토.",
+      "notebooks": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "C227209",
+      "title": "대법원 2022. 3. 17. 선고 2021다210720 판결 · 판례 > 임대차보증금",
+      "kind": "판례",
+      "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=227209",
+      "effective": "판결·결정일은 제목 참조",
+      "scope": "국가법령정보센터 제공 판시사항·요지·참조조문·전문. 사실관계와 선고 당시 법령을 함께 검토.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "C241573",
+      "title": "대법원 2024. 9. 13. 선고 2024다256116 판결 · 판례 > 임대차보증금[임대차목적물이 인도되어야 임차인의 차임지급의무가 발생하는지 여부가 문제된 사건]",
+      "kind": "판례",
+      "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=241573",
+      "effective": "판결·결정일은 제목 참조",
+      "scope": "국가법령정보센터 제공 판시사항·요지·참조조문·전문. 사실관계와 선고 당시 법령을 함께 검토.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "C241585",
+      "title": "대법원 2024. 9. 12. 선고 2024다239364 판결 · 판례 > 손해배상(기)[공인중개사가 부동산 중개 과정에서 임대차보증금 반환채무가 매수인에게 면책적으로 인수되지 않는다는 사정을 설명할 주의의무가 인정되는지 여부가 문제된 사건]",
+      "kind": "판례",
+      "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=241585",
+      "effective": "판결·결정일은 제목 참조",
+      "scope": "국가법령정보센터 제공 판시사항·요지·참조조문·전문. 사실관계와 선고 당시 법령을 함께 검토.",
+      "notebooks": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "key": "C599787",
+      "title": "대법원 2024. 12. 12. 선고 2024다261989 판결 · 판례 > 부당이득금",
+      "kind": "판례",
+      "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=599787",
+      "effective": "판결·결정일은 제목 참조",
+      "scope": "국가법령정보센터 제공 판시사항·요지·참조조문·전문. 사실관계와 선고 당시 법령을 함께 검토.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "C605771",
+      "title": "대법원 2025. 4. 15. 선고 2024다326398 판결 · 판례 > 임대차보증금반환[주택 임차인의 점유 상실 후 마쳐진 임차권등기의 대항력이 문제된 사건]",
+      "kind": "판례",
+      "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=605771",
+      "effective": "판결·결정일은 제목 참조",
+      "scope": "국가법령정보센터 제공 판시사항·요지·참조조문·전문. 사실관계와 선고 당시 법령을 함께 검토.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "C83626",
+      "title": "대법원 2004. 12. 23. 선고 2004다56554, 56561, 56578, 56585, 56592, 56608, 56615, 56622, 56639, 56646, 56653, 56660 판결 · 판례 > 건물명도",
+      "kind": "판례",
+      "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=83626",
+      "effective": "판결·결정일은 제목 참조",
+      "scope": "국가법령정보센터 제공 판시사항·요지·참조조문·전문. 사실관계와 선고 당시 법령을 함께 검토.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "C85543",
+      "title": "대법원 2008. 2. 15. 선고 2006다68810, 68827 판결 · 판례 > 임대차보증금·손해배상",
+      "kind": "판례",
+      "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=85543",
+      "effective": "판결·결정일은 제목 참조",
+      "scope": "국가법령정보센터 제공 판시사항·요지·참조조문·전문. 사실관계와 선고 당시 법령을 함께 검토.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "Hcsel000019",
+      "title": "HUG · 전세보증금보증 FAQ · 목록 첫 페이지",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/cs/el/csel000019.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음. FAQ 전체 31건 중 수집 화면에 실린 첫 페이지 문답만 포함.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "Hgbba000011",
+      "title": "HUG · 개인금융채무자 채무조정",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/gb/ba/gbba000011.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "Hgbbg000001",
+      "title": "HUG · 보증이용절차",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/gb/bg/gbbg000001.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "Hgbeg000020",
+      "title": "HUG · 보증이행 청구요건 자가진단",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/gb/eg/gbeg000020.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "Higdl000001",
+      "title": "HUG · 전세금안심대출보증",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/dl/igdl000001.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "key": "Higdl000005",
+      "title": "HUG · 전세안심대출 금리 안내",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/dl/igdl000005.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "A"
+      ]
+    },
+    {
+      "key": "Higdr000001",
+      "title": "HUG · 전세보증금반환보증 · 상품개요",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000001.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "Higdr000002",
+      "title": "HUG · 전세보증금반환보증 · 이용절차 및 제출서류",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000002.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "key": "Higdr000003",
+      "title": "HUG · 전세보증금반환보증 · 자주하는 질문",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000003.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "key": "Higdr000004",
+      "title": "HUG · 전세보증금반환보증 · 약관 및 상담연락처",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000004.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "Higdr000006",
+      "title": "HUG · 감정평가 의뢰 안내",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000006.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "Higdr000007",
+      "title": "HUG · 특례반환보증(임차인형)",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000007.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "Higdr000011",
+      "title": "HUG · 특례반환보증(임대인형)",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000011.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "Higdt000501",
+      "title": "HUG · 청년전용 월세대출보증",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/dt/igdt000501.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "A"
+      ]
+    },
+    {
+      "key": "Highp000001",
+      "title": "HUG · 주택구입자금보증",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/hp/ighp000001.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "A"
+      ]
+    },
+    {
+      "key": "Higlj000001",
+      "title": "HUG · 전세임대주택 전세보증금반환보증",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/lj/iglj000001.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "A"
+      ]
+    },
+    {
+      "key": "Higpl000001",
+      "title": "HUG · 임대주택매입자금보증",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/pl/igpl000001.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "A"
+      ]
+    },
+    {
+      "key": "Higpr000001",
+      "title": "HUG · 임차료지급보증",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/pr/igpr000001.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "A"
+      ]
+    },
+    {
+      "key": "Higrh000001",
+      "title": "HUG · 주택임차자금보증",
+      "kind": "HUG 안내",
+      "url": "https://www.khug.or.kr/hug/web/ig/rh/igrh000001.jsp",
+      "effective": "웹페이지에 통일된 시행일 표시 없음; 확인일 기준 본문",
+      "scope": "공식 공개 웹페이지 텍스트 본문. 첨부 약관·서식 파일은 포함하지 않음.",
+      "notebooks": [
+        "A"
+      ]
+    },
+    {
+      "key": "L188047",
+      "title": "인감증명법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=188047&efYd=20171203&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/인감증명법",
+      "effective": "20171203",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L215759",
+      "title": "부동산 실권리자명의 등기에 관한 법률",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=215759&efYd=20200324&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/부동산실권리자명의등기에관한법률",
+      "effective": "20200324",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "L236053",
+      "title": "전자문서 및 전자거래 기본법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236053&efYd=20221020&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/전자문서및전자거래기본법",
+      "effective": "20221020",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "L236201",
+      "title": "전자서명법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=236201&efYd=20221020&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/전자서명법",
+      "effective": "20221020",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "key": "L239291",
+      "title": "행정절차법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=239291&efYd=20230324&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/행정절차법",
+      "effective": "20230324",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "L239293",
+      "title": "민원 처리에 관한 법률",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=239293&efYd=20220712&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/민원처리에관한법률",
+      "effective": "20220712",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "L243859",
+      "title": "행정절차법 시행규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=243859&efYd=20220712&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/행정절차법시행규칙",
+      "effective": "20220712",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "L248401",
+      "title": "주택도시기금법 시행규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=248401&efYd=20230301&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/주택도시기금법시행규칙",
+      "effective": "20230301",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "key": "L251019",
+      "title": "공공기관의 정보공개에 관한 법률",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=251019&efYd=20231117&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/공공기관의정보공개에관한법률",
+      "effective": "20231117",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "key": "L252747",
+      "title": "임차권등기명령 절차에 관한 규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=252747&efYd=20230719&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/임차권등기명령절차에관한규칙",
+      "effective": "20230719",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "L253247",
+      "title": "행정절차법 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=253247&efYd=20230801&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/행정절차법시행령",
+      "effective": "20230801",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "L257213",
+      "title": "본인서명사실 확인 등에 관한 법률",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=257213&efYd=20241227&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/본인서명사실확인등에관한법률",
+      "effective": "20241227",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L259641",
+      "title": "부동산 거래신고 등에 관한 법률",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=259641&efYd=20240517&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/부동산거래신고등에관한법률",
+      "effective": "20240517",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "key": "L262411",
+      "title": "부동산 실권리자명의 등기에 관한 법률 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=262411&efYd=20240517&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/부동산실권리자명의등기에관한법률시행령",
+      "effective": "20240517",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L265249",
+      "title": "민원 처리에 관한 법률 시행규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265249&efYd=20240906&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/민원처리에관한법률시행규칙",
+      "effective": "20240906",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "L265377",
+      "title": "부동산등기법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=265377&efYd=20250131&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/부동산등기법",
+      "effective": "20250131",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L266797",
+      "title": "본인서명사실 확인 등에 관한 법률 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=266797&efYd=20241227&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/본인서명사실확인등에관한법률시행령",
+      "effective": "20241227",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L266801",
+      "title": "인감증명법 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=266801&efYd=20241227&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/인감증명법시행령",
+      "effective": "20241227",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L266847",
+      "title": "부동산등기규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=266847&efYd=20250801&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/부동산등기규칙",
+      "effective": "20250801",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L268555",
+      "title": "주민등록법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268555&efYd=20250722&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/주민등록법",
+      "effective": "20250722",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L268837",
+      "title": "민사집행법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=268837&efYd=20260201&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/민사집행법",
+      "effective": "20260201",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "L269343",
+      "title": "민간임대주택에 관한 특별법 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269343&efYd=20260226&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/민간임대주택에관한특별법시행령",
+      "effective": "20260226",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A"
+      ]
+    },
+    {
+      "key": "L269955",
+      "title": "행정기본법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=269955&efYd=20260319&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/행정기본법",
+      "effective": "20260319",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "key": "L272631",
+      "title": "민사집행규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=272631&efYd=20250712&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/민사집행규칙",
+      "effective": "20250712",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L273103",
+      "title": "건축물대장의 기재 및 관리 등에 관한 규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273103&efYd=20250731&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/건축물대장의기재및관리등에관한규칙",
+      "effective": "20250731",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L273809",
+      "title": "공공기관의 정보공개에 관한 법률 시행규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273809&efYd=20250919&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/공공기관의정보공개에관한법률시행규칙",
+      "effective": "20250919",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "key": "L273851",
+      "title": "전세사기피해자 지원 및 주거안정에 관한 특별법 시행규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=273851&efYd=20250919&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/전세사기피해자지원및주거안정에관한특별법시행규칙",
+      "effective": "20250919",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "L276291",
+      "title": "주택임대차보호법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276291&efYd=20260102&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/주택임대차보호법",
+      "effective": "20260102",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "L276995",
+      "title": "민간임대주택에 관한 특별법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276995&efYd=20260102&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/민간임대주택에관한특별법",
+      "effective": "20260102",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "key": "L280639",
+      "title": "민간임대주택에 관한 특별법 시행규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=280639&efYd=20251219&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/민간임대주택에관한특별법시행규칙",
+      "effective": "20251219",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "key": "L281505",
+      "title": "공공기관의 정보공개에 관한 법률 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=281505&efYd=20260102&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/공공기관의정보공개에관한법률시행령",
+      "effective": "20260102",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "key": "L283339",
+      "title": "부동산 거래신고 등에 관한 법률 시행규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283339&efYd=20260210&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/부동산거래신고등에관한법률시행규칙",
+      "effective": "20260210",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L283713",
+      "title": "공인중개사법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283713&efYd=20260828&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/공인중개사법",
+      "effective": "20260828",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "L283839",
+      "title": "개인정보 보호법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=283839&efYd=20260911&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/개인정보보호법",
+      "effective": "20260911",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "L284415",
+      "title": "민법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284415&efYd=20260317&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/민법",
+      "effective": "20260317",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "L284499",
+      "title": "행정기본법 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=284499&efYd=20260319&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/행정기본법시행령",
+      "effective": "20260319",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "key": "L285733",
+      "title": "주민등록법 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285733&efYd=20260428&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/주민등록법시행령",
+      "effective": "20260428",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L285815",
+      "title": "민원 처리에 관한 법률 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285815&efYd=20260506&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/민원처리에관한법률시행령",
+      "effective": "20260506",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "L286599",
+      "title": "주택도시기금법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=286599&efYd=20260602&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/주택도시기금법",
+      "effective": "20260602",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A"
+      ]
+    },
+    {
+      "key": "L287183",
+      "title": "주택임대차보호법 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=287183&efYd=20260701&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/주택임대차보호법시행령",
+      "effective": "20260701",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "L288575",
+      "title": "주택법 시행규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=288575&efYd=20260804&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/주택법시행규칙",
+      "effective": "20260804",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A"
+      ]
+    },
+    {
+      "key": "L288753",
+      "title": "공인중개사법 시행규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=288753&efYd=20260828&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/공인중개사법시행규칙",
+      "effective": "20260828",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "key": "L288933",
+      "title": "공인중개사법 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=288933&efYd=20260828&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/공인중개사법시행령",
+      "effective": "20260828",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A"
+      ]
+    },
+    {
+      "key": "L289171",
+      "title": "주택법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289171&efYd=20260908&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/주택법",
+      "effective": "20260908",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A"
+      ]
+    },
+    {
+      "key": "L289499",
+      "title": "주택법 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289499&efYd=20260908&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/주택법시행령",
+      "effective": "20260908",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A"
+      ]
+    },
+    {
+      "key": "L289537",
+      "title": "개인정보 보호법 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289537&efYd=20260911&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/개인정보보호법시행령",
+      "effective": "20260911",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "L289689",
+      "title": "주택도시기금법 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=289689&efYd=20260915&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/주택도시기금법시행령",
+      "effective": "20260915",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "A"
+      ]
+    },
+    {
+      "key": "L290113",
+      "title": "민사소송법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290113&efYd=20261002&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/민사소송법",
+      "effective": "20261002",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "key": "L290655",
+      "title": "전세사기피해자 지원 및 주거안정에 관한 특별법",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290655&efYd=20261002&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/전세사기피해자지원및주거안정에관한특별법",
+      "effective": "20261002",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "B"
+      ]
+    },
+    {
+      "key": "L290839",
+      "title": "부동산 거래신고 등에 관한 법률 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=290839&efYd=20261001&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/부동산거래신고등에관한법률시행령",
+      "effective": "20261001",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L291005",
+      "title": "주민등록법 시행규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=291005&efYd=20261002&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/주민등록법시행규칙",
+      "effective": "20261002",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L291043",
+      "title": "민사소송규칙",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=291043&efYd=20261012&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/민사소송규칙",
+      "effective": "20261012",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "C"
+      ]
+    },
+    {
+      "key": "L291183",
+      "title": "전세사기피해자 지원 및 주거안정에 관한 특별법 시행령",
+      "kind": "법령",
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=291183&efYd=20261013&chrClsCd=010202",
+      "alias": "https://www.law.go.kr/법령/전세사기피해자지원및주거안정에관한특별법시행령",
+      "effective": "20261013",
+      "scope": "법령 본문·화면에 제공된 부칙. 별표·별지 첨부파일은 별도 수집하지 않음.",
+      "notebooks": [
+        "B"
+      ]
+    }
+  ],
+  "unique_documents": 84,
+  "placements": 135,
+  "excluded_candidates": [
+    {
+      "id": "Hcscl000003",
+      "title": "HUG · 약관/서식/자료실",
+      "reason": "역할별 45개 편성에서 제외; 목록·연결 안내 및 주제 중복을 줄임"
+    },
+    {
+      "id": "Hgbba000001",
+      "title": "HUG · 채권관리",
+      "reason": "역할별 45개 편성에서 제외; 목록·연결 안내 및 주제 중복을 줄임"
+    },
+    {
+      "id": "Hgbeg000001",
+      "title": "HUG · 분양보증 · 보증이행안내",
+      "reason": "역할별 45개 편성에서 제외; 목록·연결 안내 및 주제 중복을 줄임"
+    },
+    {
+      "id": "Hgbeg000007",
+      "title": "HUG · 하자보증 · 보증이행안내",
+      "reason": "역할별 45개 편성에서 제외; 목록·연결 안내 및 주제 중복을 줄임"
+    },
+    {
+      "id": "Hgbeg000011",
+      "title": "HUG · 기타보증 · 보증이행안내",
+      "reason": "역할별 45개 편성에서 제외; 목록·연결 안내 및 주제 중복을 줄임"
+    }
+  ]
+}
