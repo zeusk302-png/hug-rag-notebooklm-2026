@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "hug-notebooklm": {
+      "command": "C:/YOUR_WORKSHOP/.venv/Scripts/notebooklm-mcp.exe",
+      "args": [],
+      "env": {
+        "NOTEBOOKLM_MCP_CLI_PATH": "C:/YOUR_WORKSHOP/.runtime/notebooklm-auth",
+        "NLM_PROFILE": "hug-training",
+        "NOTEBOOKLM_DISABLED_GROUPS": "notebooks_read,notebooks_manage,sources_read,sources_manage,chat,query_multi,organization,automation,notes,aliases,auth,server,usage,sharing,research,studio",
+        "NOTEBOOKLM_ENABLED_TOOLS": "notebook_get,notebook_query,source_get_content,server_info",
+        "NOTEBOOKLM_HL": "ko",
+        "PYTHONUTF8": "1"
+      }
+    }
+  }
+}

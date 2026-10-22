@@ -1,0 +1,6 @@
+.runtime/
+.venv/
+langfuse/
+notebooks.json
+source-registry.json
+mcp-config.json
